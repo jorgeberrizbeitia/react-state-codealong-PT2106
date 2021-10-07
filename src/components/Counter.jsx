@@ -1,5 +1,6 @@
-import React, {Component} from "react"
+// LESSON 1. BASIC REACT STATE CODEALONG.
 
+import React, {Component} from "react"
 
 const btnStyles = {
   margin: "10px",
